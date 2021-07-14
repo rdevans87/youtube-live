@@ -25,7 +25,7 @@
 		"react-rounded-image": "^2.0.13",
 		"react-router-dom": "^4.3.1",
 		"react-scripts": "3.4.3",
-		"uninstall": "0.0.0"
+	
 	},
 	"scripts": {
 		"start": "react-scripts start",
