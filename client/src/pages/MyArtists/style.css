@@ -1,0 +1,9 @@
+.genres li{
+    margin-left:30px;
+}
+
+.card-title{
+    text-align: center;
+    font-size: 30px;
+    padding: 5px;
+}

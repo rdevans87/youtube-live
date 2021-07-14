@@ -1,0 +1,45 @@
+a
+{
+  text-decoration: none;
+}
+
+
+
+
+body{
+  background: url('./landingBackground.jpeg') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+  
+}
+
+.navbar
+{
+  background-color: transparent;
+}
+
+
+.hero
+{
+  background-color: transparent;
+}
+
+
+.hero.is-info
+{
+  background: transparent;
+}
+
+.menu-icon
+{
+  color: #fff;
+  
+}
+
+.is-active
+{
+  background-color: #fff;
+}

@@ -1,0 +1,47 @@
+
+.video-search {
+    margin: 30px;
+}
+
+.video-search input {
+width: 75%;
+height: 39px;
+
+}
+
+.video-item img {
+max-width: 120px;
+
+}
+
+.video-detail .details {
+margin-top: 20px;
+padding: 10px;
+border: 1px solid #ddd;
+border-radius: 4px;
+
+}
+
+.list-group-item {
+  cursor: pointer;
+
+}
+
+.list-group-item:hover {
+background-color: rgb(233, 233, 233);
+
+}
+
+iframe{
+    width: 800px;
+    height: 450px;
+  }
+  
+.card{
+  padding: 20px;
+}
+
+button{
+  margin-left: 5px;
+  
+}
