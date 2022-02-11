@@ -4,7 +4,7 @@
 
 ## Description 
 
-Attend live concerts right from the comfort of your own home.  Watch your favorite musical artists and legendary rock bands perform in concert venues from around the globe. Discover rare intimate peformances and historic sold out shows all in one place. Search for upcoming live in events in your area and find information about your favorite artists, venues, and concert locations.  
+Attend live concerts right from the comfort of your own home.  Watch your favorite musical artists and legendary rock bands perform in concert venues from around the globe. Discover rare intimate performances and historic sold out shows all in one place. Search for upcoming live in events in your area and find information about your favorite artists, venues, and concert locations.  
 
 The is application is deployed on Heroku: [YouTube.Live](https://osu-project3.herokuapp.com/)
 
